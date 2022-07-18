@@ -28,6 +28,11 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'Credits',
+        message: " Who is credited with the creation of this?",
+    },
+    {
+        type: 'input',
         name: 'contribution',
         message: 'Who contributed?',
     },
