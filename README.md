@@ -1,7 +1,7 @@
-# test
+# Jordan Heidlage Professional README Generator
 
   ## Description
-  test
+  This project was created to utilize Inquirer prompts to generate a Professional README.
   ## Table of Contents (Optional)
   - [License](#license)
   - [Installation](#installation)
@@ -13,14 +13,12 @@
   ## License
   undefined
   ## Installation
-  test
+  Upon downloading this file, enter "npm i" in your terminal to install the libraries needed
   ## Usage
-  test    
+  After downloading the file, and entering "npm i" in your terminal, enter "node ind(tab)" to access the index.js file. Answer the questions as they're presented in the terminal, and at the end, your answers will be reflected inthe README.md file under the "ninth-homework" folder.    
   ## Credits
-  test
+  Me https://github.com/jordanheidlage
   ## Contributions
-  test
+  Instructional Staff
   ## Tests
-  test
-  ## Questions
-  undefined
+  By creating this README from the prompts
