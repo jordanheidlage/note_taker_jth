@@ -32,6 +32,7 @@ function generateMarkdown(data) {
   - [Credits](#credits)
   - [Contribution](#contributions)
   - [Tests](#tests)
+  - [Questions](#questions)
 
   ## License
   ${renderLicenseBadge(data.license)}
