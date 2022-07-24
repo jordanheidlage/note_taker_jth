@@ -46,6 +46,11 @@ const questions = [
         name: 'license',
         message: 'What license are you using?',
     },
+    {
+        type: 'input',
+        name: 'questions',
+        message: 'How can you be contacted if there are any questions?',
+    },
 ];
 // WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
 // THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests

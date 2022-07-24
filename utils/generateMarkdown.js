@@ -45,6 +45,8 @@ function generateMarkdown(data) {
   ${data.contribution}
   ## Tests
   ${data.test}
+  ## Questions
+  ${data.questions}
 `;
 }
 
