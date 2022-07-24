@@ -1,7 +1,7 @@
 # Professional README Generator
 
   ## Description
-  This project utilizes the inquirer prompt, and node to create a professional README from questions prompted in the terminal
+  This project utilizes inquirer prompts, and the application of node.js to utilize the terminal to generate a professional README
   ## Table of Contents (Optional)
   - [License](#license)
   - [Installation](#installation)
@@ -9,18 +9,19 @@
   - [Credits](#credits)
   - [Contribution](#contributions)
   - [Tests](#tests)
+  - [Questions](#questions)
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Installation
-  By downloading the repository, and running the command "npm i" in the terminal to initilize the inquirer prompt
+  By downloading the repository, and utilizing the command "npm i" in your terminal to install the inquirer libraries
   ## Usage
-          After downloading the file, and entering "npm i" in your terminal, enter "node ind(tab)" to access the index.js file. Answer the questions as they're presented in the terminal, and at the end, your answers will be reflected inthe README.md file under the "ninth-homework" folder.    
+  Upon downloading this application, and running the "npm i" command, you will use the command "node index" in your terminal to activate the index file, which will generate a series of questions to ask you about your project and generate that information in the attached README.md file    
   ## Credits
-  Jordan Heidlage and instructional staff.
+  Jordan Heidlage
   ## Contributions
-  Jordan Heidlage and instructional staff.
+  Jordan Heidlage and Instructional staff of The Ohio State University
   ## Tests
-  By running node index in the terminal
+  This project was tested by generating the README for it through use of the application
   ## Questions
-  Email me at jheidlage6@gmail.com
+  jordanheidlage@gmail.com or github.com/jordanheidlage
