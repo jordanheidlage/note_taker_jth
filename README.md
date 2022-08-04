@@ -1,7 +1,7 @@
-# Professional README Generator
+# Note Taker JH
 
   ## Description
-  This project utilizes inquirer prompts, and the application of node.js to utilize the terminal to generate a professional README
+  This website allows the user to take nots and save them as persistent data so that they can look back on them whenever they'd like to.
   ## Table of Contents (Optional)
   - [License](#license)
   - [Installation](#installation)
@@ -14,14 +14,14 @@
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Installation
-  By downloading the repository, and utilizing the command "npm i" in your terminal to install the inquirer libraries
+  null
   ## Usage
-  Upon downloading this application, and running the "npm i" command, you will use the command "node index" in your terminal to activate the index file, which will generate a series of questions to ask you about your project and generate that information in the attached README.md file    
+  You'll see a landing page when you first load the website. To start, click the "Get Started" button, which will redirect you to the application. There are 2 columns, the column on the left if for previously saved notes, and the column on the right is for new notes. To add new notes type in a title, and some text in the text area, and click the save icon. These will then appear in the saved notes. If you want to look at these, simply click on them. This website doesn't currently have a delete button, but will in the future. Here's the link to the deployed application https://note-takerjh.herokuapp.com/.    
   ## Credits
-  Jordan Heidlage
+  Ohio State University instructional staff, and myself
   ## Contributions
-  Jordan Heidlage and Instructional staff of The Ohio State University
+  Instructional Staff, and myself
   ## Tests
-  This project was tested by generating the README for it through use of the application
+  
   ## Questions
-  jordanheidlage@gmail.com or github.com/jordanheidlage
+  
